@@ -1,0 +1,15 @@
+{
+  "_comentario": "Este é só um exemplo da ESTRUTURA do arquivo. Baixe o seu arquivo real no console do Firebase (Configurações do projeto > Seus apps > app Android com applicationId com.jarviscaseiro.app) e salve como app/google-services.json (sem '.EXEMPLO' no nome). Sem o arquivo real, o GitHub Actions vai falhar a compilação de propósito (ver workflow), em vez de compilar algo quebrado.",
+  "project_info": {
+    "project_id": "projetojarvis-d2dfa"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.jarviscaseiro.app"
+        }
+      }
+    }
+  ]
+}
