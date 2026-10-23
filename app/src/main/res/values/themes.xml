@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.JarvisCaseiro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/jarvis_accent</item>
+        <item name="colorPrimaryDark">@color/jarvis_bg</item>
+        <item name="colorAccent">@color/jarvis_accent</item>
+        <item name="android:windowBackground">@color/jarvis_bg</item>
+        <item name="android:statusBarColor">@color/jarvis_bg</item>
+    </style>
+
+    <style name="Theme.JarvisCaseiro.Alarme" parent="Theme.JarvisCaseiro">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

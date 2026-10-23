@@ -1,0 +1,23 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+
+    "comandos": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["hora", "destino"]
+    },
+
+    "respostas": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["status"]
+    },
+
+    "dispositivos": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}

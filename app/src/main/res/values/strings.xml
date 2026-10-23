@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jarvis Caseiro</string>
+    <string name="canal_servico">Jarvis Ativo</string>
+    <string name="canal_alarme">Alarmes do Jarvis</string>
+    <string name="notificacao_servico_titulo">Jarvis Caseiro em execução</string>
+    <string name="notificacao_servico_texto">Escutando comandos do Firebase</string>
+    <string name="status_conectado">Conectado ao Firebase</string>
+    <string name="status_desconectado">Desconectado</string>
+    <string name="status_conectando">Conectando…</string>
+    <string name="iniciar_servico">Iniciar serviço</string>
+    <string name="parar_servico">Parar serviço</string>
+    <string name="permissoes_pendentes">Permissões pendentes</string>
+    <string name="id_dispositivo">ID do dispositivo</string>
+</resources>
