@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "645078178645",
+    "firebase_url": "https://projetojarvis-d2dfa-default-rtdb.firebaseio.com",
+    "project_id": "projetojarvis-d2dfa",
+    "storage_bucket": "projetojarvis-d2dfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645078178645:android:4e47e3da98e960f377eddc",
+        "android_client_info": {
+          "package_name": "com.jarviscaseiro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIki0nOtpIIX7N7HX0SJ706dm1xFZSGsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
